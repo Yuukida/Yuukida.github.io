@@ -1,0 +1,12 @@
+Link {
+  display: flex;
+}
+
+.container {
+}
+
+newimg {
+  vertical-align: middle;
+  flex: initial;
+}
+
